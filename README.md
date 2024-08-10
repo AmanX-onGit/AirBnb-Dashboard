@@ -3,6 +3,8 @@
 
 This repo contains an interactive dashboard using Tableau, integrating data from Excel for analysis and visualization. 
 
+Link to the dashboard - https://public.tableau.com/app/profile/aman.singh8544/viz/AirBnBFullProject_17166329769640/Dashboard1
+
 ![Dashboard](https://github.com/user-attachments/assets/7cd227de-abf7-4f61-83af-86bff2e49c11)
 
 
